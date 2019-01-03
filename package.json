@@ -1,0 +1,11 @@
+{
+  "name": "node-mysql",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "@angular/cli": "^7.0.6"
+  }
+}
